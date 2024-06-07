@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="variable and data types">
-      <change afterPath="$PROJECT_DIR$/Ex_05042024/Lab006.py" afterDir="false" />
+    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="class 3">
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_05042024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_05042024/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_05042024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_05042024/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab007.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +55,7 @@
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -113,12 +118,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717557559295</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="variable and data types">
+      <option name="closed" value="true" />
+      <created>1717557743475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717557743475</updated>
+    </task>
+    <task id="LOCAL-00007" summary="class 3">
+      <option name="closed" value="true" />
+      <created>1717694482130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717694482130</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Lab001 file" />
     <MESSAGE value="variable and data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable and data types" />
+    <MESSAGE value="class 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 3" />
   </component>
 </project>
