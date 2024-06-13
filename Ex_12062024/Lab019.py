@@ -14,7 +14,7 @@
 
 # Write a program to take a user age and let him know if he can go the club.
 
-# Take a user input
+# Take a user pinput
 
 age = int(input("Enter your Age"))
 
