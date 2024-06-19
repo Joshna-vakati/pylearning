@@ -20,4 +20,4 @@ def func(*argv,**kwarg):
     print(argv)
     print(kwarg)
 
-func(1,2,3,4,5, name ='Joshna', age ='4')
+func(1,2,3,4,5, name ='Joshna', age ='4' )
