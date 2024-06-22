@@ -15,3 +15,8 @@ print(my_set)
 # my_set = set1.difference(set2)
 my_set = set2.difference(set1)
 print(my_set)
+
+set1 = {1, 2, 3, 4, 5}
+set2 = {2, 3, 8}
+subset = set2.issubset(set1)
+print(subset)
