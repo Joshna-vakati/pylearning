@@ -10,7 +10,7 @@
 # Return: Returns an iterator
 # with index and element pairs from the original iterable
 #
-# and returns an enumerate object that iterates over the pairs.
+# and returns an enumerate object that iterates over the pairs. n
 
 # Examples:
 #
