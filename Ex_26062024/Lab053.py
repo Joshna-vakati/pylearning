@@ -3,7 +3,7 @@
 # declared inside the block
 # scope - local scope
 # accessed only inside the block
-# acessed - attribute name
+# acessed - attribute name.
 
 
 class Employee:
