@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="set methods">
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab047.py" afterDir="false" />
+    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="instance varible example">
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab054.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab040.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_19062024/Lab040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_26062024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_26062024/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab052.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="vakati &lt;vijaybabu@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -72,6 +81,13 @@
     "Python.Lab039.executor": "Run",
     "Python.Lab040.executor": "Run",
     "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab050.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab058.executor": "Run",
     "Python.Task_001.executor": "Run",
     "Python.Task_002.executor": "Run",
     "Python.Task_003.executor": "Run",
@@ -128,118 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717381853802</updated>
-    </task>
-    <task id="LOCAL-00012" summary="types of literals">
-      <option name="closed" value="true" />
-      <created>1718040207851</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1718040207851</updated>
-    </task>
-    <task id="LOCAL-00013" summary="operators">
-      <option name="closed" value="true" />
-      <created>1718040230511</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1718040230511</updated>
-    </task>
-    <task id="LOCAL-00014" summary="arithematic operators">
-      <option name="closed" value="true" />
-      <created>1718040254224</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1718040254224</updated>
-    </task>
-    <task id="LOCAL-00015" summary="logical operators">
-      <option name="closed" value="true" />
-      <created>1718040274409</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1718040274409</updated>
-    </task>
-    <task id="LOCAL-00016" summary="ternary operator">
-      <option name="closed" value="true" />
-      <created>1718040294668</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1718040294668</updated>
-    </task>
-    <task id="LOCAL-00017" summary="area of a circle program">
-      <option name="closed" value="true" />
-      <created>1718040311674</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1718040311674</updated>
-    </task>
-    <task id="LOCAL-00018" summary="comparision/relationsl operators">
-      <option name="closed" value="true" />
-      <created>1718213960648</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1718213960648</updated>
-    </task>
-    <task id="LOCAL-00019" summary="membership and identity operators">
-      <option name="closed" value="true" />
-      <created>1718214670879</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1718214670879</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Task 1 added">
-      <option name="closed" value="true" />
-      <created>1718216014921</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1718216014921</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Task 2 added">
-      <option name="closed" value="true" />
-      <created>1718216433066</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1718216433066</updated>
-    </task>
-    <task id="LOCAL-00022" summary="if conditionn syntax">
-      <option name="closed" value="true" />
-      <created>1718296395421</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1718296395421</updated>
-    </task>
-    <task id="LOCAL-00023" summary="if condition syntax">
-      <option name="closed" value="true" />
-      <created>1718296431683</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1718296431683</updated>
-    </task>
-    <task id="LOCAL-00024" summary="if condition syntax">
-      <option name="closed" value="true" />
-      <created>1718296496278</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1718296496278</updated>
-    </task>
-    <task id="LOCAL-00025" summary="comparision/ relational operators">
-      <option name="closed" value="true" />
-      <created>1718296614431</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1718296614431</updated>
     </task>
     <task id="LOCAL-00026" summary="if condn">
       <option name="closed" value="true" />
@@ -521,7 +425,119 @@
       <option name="project" value="LOCAL" />
       <updated>1719074087049</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="dictionary">
+      <option name="closed" value="true" />
+      <created>1719074183538</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1719074183538</updated>
+    </task>
+    <task id="LOCAL-00062" summary="commit">
+      <option name="closed" value="true" />
+      <created>1719074320373</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1719074320373</updated>
+    </task>
+    <task id="LOCAL-00063" summary="dictionary">
+      <option name="closed" value="true" />
+      <created>1719074346157</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1719074346157</updated>
+    </task>
+    <task id="LOCAL-00064" summary="dictionary">
+      <option name="closed" value="true" />
+      <created>1719074359978</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1719074359978</updated>
+    </task>
+    <task id="LOCAL-00065" summary="filter , zip">
+      <option name="closed" value="true" />
+      <created>1719074579441</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1719074579441</updated>
+    </task>
+    <task id="LOCAL-00066" summary="oops">
+      <option name="closed" value="true" />
+      <created>1719508552999</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1719508552999</updated>
+    </task>
+    <task id="LOCAL-00067" summary="class defining">
+      <option name="closed" value="true" />
+      <created>1719510294283</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1719510294283</updated>
+    </task>
+    <task id="LOCAL-00068" summary="class attributes">
+      <option name="closed" value="true" />
+      <created>1719511889429</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1719511889429</updated>
+    </task>
+    <task id="LOCAL-00069" summary="instance attributes">
+      <option name="closed" value="true" />
+      <created>1719512322143</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1719512322143</updated>
+    </task>
+    <task id="LOCAL-00070" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1719512866571</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1719512866571</updated>
+    </task>
+    <task id="LOCAL-00071" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1719512942579</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1719512942579</updated>
+    </task>
+    <task id="LOCAL-00072" summary="calculate sum using oops">
+      <option name="closed" value="true" />
+      <created>1719513010906</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1719513010906</updated>
+    </task>
+    <task id="LOCAL-00073" summary="calculate sum using oops(instance variable)">
+      <option name="closed" value="true" />
+      <created>1719513324212</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1719513324212</updated>
+    </task>
+    <task id="LOCAL-00074" summary="instance varible example">
+      <option name="closed" value="true" />
+      <created>1719513387970</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1719513387970</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,17 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sample program" />
-    <MESSAGE value="nested if" />
-    <MESSAGE value="leap year program" />
-    <MESSAGE value="traingle program" />
-    <MESSAGE value="factorial program" />
-    <MESSAGE value="fibonacci series program" />
-    <MESSAGE value="break statement" />
-    <MESSAGE value="pass statement" />
-    <MESSAGE value="continue statement" />
-    <MESSAGE value="Match case in python" />
-    <MESSAGE value="functions" />
     <MESSAGE value="functions with return type" />
     <MESSAGE value="functions with return type example" />
     <MESSAGE value="passing list in function" />
@@ -561,7 +566,18 @@
     <MESSAGE value="set" />
     <MESSAGE value="union, intersection and difference" />
     <MESSAGE value="set methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="set methods" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="dictionary" />
+    <MESSAGE value="filter , zip" />
+    <MESSAGE value="oops" />
+    <MESSAGE value="class defining" />
+    <MESSAGE value="class attributes" />
+    <MESSAGE value="instance attributes" />
+    <MESSAGE value="constructor" />
+    <MESSAGE value="calculate sum using oops" />
+    <MESSAGE value="calculate sum using oops(instance variable)" />
+    <MESSAGE value="instance varible example" />
+    <option name="LAST_COMMIT_MESSAGE" value="instance varible example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

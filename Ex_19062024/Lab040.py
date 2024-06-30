@@ -23,3 +23,4 @@ res =[]
 for item1, item2 in zip(last1, last2):
     res.append(item1+item2)
 print(res)
+]
