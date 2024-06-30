@@ -1,7 +1,7 @@
 #class attributes
 
 # declared inside the class
-# shared and accessed by all class elements and outside the class
+# shared and accessed by all class elements and outside the class.
 # they are called by class names
 # memory of class attributes shared by all the instamces of a class
 
