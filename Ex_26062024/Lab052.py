@@ -3,7 +3,7 @@
 # declared with instance name/reference
 # accessed with instance name
 # scope - class
-# each object will have own memory
+# each object will have own memory.
 
 class employee:
     def display(self):
