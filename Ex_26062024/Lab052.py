@@ -20,4 +20,4 @@ obj1 = employee()
 obj1.display()
 obj1.show()
 
-print(obj1.name, obj1.age, obj1.address)
+print(obj1.name, obj1.age, obj1.address)     # can be accessed outside the class
