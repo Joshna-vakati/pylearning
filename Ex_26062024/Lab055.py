@@ -5,6 +5,8 @@
 # ●	It is used to initialize the object's attributes or perform any necessary setup tasks.
 # ●	The constructor method in Python is called __init__().
 
+# any method starts with __ we call as dunder methods or magic method
+
 class MyClass:
     def __init__(self, x, y):
         self.x = x
