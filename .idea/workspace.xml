@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="instance varible example">
-      <change beforePath="$PROJECT_DIR$/Ex_26062024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab051.py" afterDir="false" />
+    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="hybrid inheritance">
+      <change afterPath="$PROJECT_DIR$/july1/Lab072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +82,15 @@
     "Python.Lab051.executor": "Run",
     "Python.Lab052.executor": "Run",
     "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
     "Python.Lab055.executor": "Run",
     "Python.Lab058.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab072.executor": "Run",
     "Python.Task_001.executor": "Run",
     "Python.Task_002.executor": "Run",
     "Python.Task_003.executor": "Run",
@@ -139,158 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717381853802</updated>
-    </task>
-    <task id="LOCAL-00027" summary="max of 2 numbers">
-      <option name="closed" value="true" />
-      <created>1718296811529</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1718296811529</updated>
-    </task>
-    <task id="LOCAL-00028" summary="max of 3 numbers">
-      <option name="closed" value="true" />
-      <created>1718296947576</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1718296947576</updated>
-    </task>
-    <task id="LOCAL-00029" summary="for loop">
-      <option name="closed" value="true" />
-      <created>1718297110036</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1718297110036</updated>
-    </task>
-    <task id="LOCAL-00030" summary="range">
-      <option name="closed" value="true" />
-      <created>1718297202330</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1718297202330</updated>
-    </task>
-    <task id="LOCAL-00031" summary="while loop">
-      <option name="closed" value="true" />
-      <created>1718297253701</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1718297253701</updated>
-    </task>
-    <task id="LOCAL-00032" summary="sample program">
-      <option name="closed" value="true" />
-      <created>1718297327724</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1718297327724</updated>
-    </task>
-    <task id="LOCAL-00033" summary="nested if">
-      <option name="closed" value="true" />
-      <created>1718297397910</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1718297397910</updated>
-    </task>
-    <task id="LOCAL-00034" summary="leap year program">
-      <option name="closed" value="true" />
-      <created>1718299111985</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1718299111985</updated>
-    </task>
-    <task id="LOCAL-00035" summary="traingle program">
-      <option name="closed" value="true" />
-      <created>1718299133642</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1718299133642</updated>
-    </task>
-    <task id="LOCAL-00036" summary="factorial program">
-      <option name="closed" value="true" />
-      <created>1718299882203</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1718299882203</updated>
-    </task>
-    <task id="LOCAL-00037" summary="fibonacci series program">
-      <option name="closed" value="true" />
-      <created>1718301421018</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1718301421018</updated>
-    </task>
-    <task id="LOCAL-00038" summary="break statement">
-      <option name="closed" value="true" />
-      <created>1718335535725</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1718335535725</updated>
-    </task>
-    <task id="LOCAL-00039" summary="continue statement">
-      <option name="closed" value="true" />
-      <created>1718336082320</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1718336082320</updated>
-    </task>
-    <task id="LOCAL-00040" summary="pass statement">
-      <option name="closed" value="true" />
-      <created>1718336195421</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1718336195421</updated>
-    </task>
-    <task id="LOCAL-00041" summary="continue statement">
-      <option name="closed" value="true" />
-      <created>1718336375285</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1718336375285</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Match case in python">
-      <option name="closed" value="true" />
-      <created>1718336465649</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1718336465649</updated>
-    </task>
-    <task id="LOCAL-00043" summary="functions">
-      <option name="closed" value="true" />
-      <created>1718639250894</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1718639250894</updated>
-    </task>
-    <task id="LOCAL-00044" summary="functions with return type">
-      <option name="closed" value="true" />
-      <created>1718639386011</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1718639386011</updated>
-    </task>
-    <task id="LOCAL-00045" summary="functions with return type example">
-      <option name="closed" value="true" />
-      <created>1718639516695</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1718639516695</updated>
     </task>
     <task id="LOCAL-00046" summary="passing list in function">
       <option name="closed" value="true" />
@@ -532,7 +388,159 @@
       <option name="project" value="LOCAL" />
       <updated>1719771946573</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="class attributes">
+      <option name="closed" value="true" />
+      <created>1719771991972</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1719771991972</updated>
+    </task>
+    <task id="LOCAL-00077" summary="class attributes">
+      <option name="closed" value="true" />
+      <created>1719772036652</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1719772036652</updated>
+    </task>
+    <task id="LOCAL-00078" summary="instance attributes">
+      <option name="closed" value="true" />
+      <created>1719772248755</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1719772248755</updated>
+    </task>
+    <task id="LOCAL-00079" summary="instance attributes">
+      <option name="closed" value="true" />
+      <created>1719772499956</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1719772499956</updated>
+    </task>
+    <task id="LOCAL-00080" summary="local attributes">
+      <option name="closed" value="true" />
+      <created>1719772539183</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1719772539183</updated>
+    </task>
+    <task id="LOCAL-00081" summary="global attributes">
+      <option name="closed" value="true" />
+      <created>1719773217060</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1719773217060</updated>
+    </task>
+    <task id="LOCAL-00082" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1719774438849</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774438849</updated>
+    </task>
+    <task id="LOCAL-00083" summary="constructor example">
+      <option name="closed" value="true" />
+      <created>1719774553072</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774553072</updated>
+    </task>
+    <task id="LOCAL-00084" summary="encapsulation">
+      <option name="closed" value="true" />
+      <created>1719774655262</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774655262</updated>
+    </task>
+    <task id="LOCAL-00085" summary="encapsulation">
+      <option name="closed" value="true" />
+      <created>1719774749306</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774749306</updated>
+    </task>
+    <task id="LOCAL-00086" summary="encapsulation">
+      <option name="closed" value="true" />
+      <created>1719774799279</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774799279</updated>
+    </task>
+    <task id="LOCAL-00087" summary="encapsulation">
+      <option name="closed" value="true" />
+      <created>1719774862516</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774862516</updated>
+    </task>
+    <task id="LOCAL-00088" summary="encapsulation">
+      <option name="closed" value="true" />
+      <created>1719774888049</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774888049</updated>
+    </task>
+    <task id="LOCAL-00089" summary="encapsulation">
+      <option name="closed" value="true" />
+      <created>1719774928880</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1719774928880</updated>
+    </task>
+    <task id="LOCAL-00090" summary="single inheritance">
+      <option name="closed" value="true" />
+      <created>1719905508607</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1719905508607</updated>
+    </task>
+    <task id="LOCAL-00091" summary="heirarchial inheritance">
+      <option name="closed" value="true" />
+      <created>1719905801545</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1719905801545</updated>
+    </task>
+    <task id="LOCAL-00092" summary="multilevel inheritance">
+      <option name="closed" value="true" />
+      <created>1719906001698</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1719906001698</updated>
+    </task>
+    <task id="LOCAL-00093" summary="multiple inheritance">
+      <option name="closed" value="true" />
+      <created>1719906206915</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1719906206915</updated>
+    </task>
+    <task id="LOCAL-00094" summary="hybrid inheritance">
+      <option name="closed" value="true" />
+      <created>1719906295864</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1719906295864</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,15 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="functions with return type" />
-    <MESSAGE value="functions with return type example" />
-    <MESSAGE value="passing list in function" />
-    <MESSAGE value="args and kwargs" />
-    <MESSAGE value="lambda function" />
-    <MESSAGE value="map function" />
-    <MESSAGE value="enumerator" />
-    <MESSAGE value="filter" />
-    <MESSAGE value="tuple" />
     <MESSAGE value="convert list to tuple" />
     <MESSAGE value="tuple of tuples" />
     <MESSAGE value="set" />
@@ -566,13 +565,22 @@
     <MESSAGE value="filter , zip" />
     <MESSAGE value="oops" />
     <MESSAGE value="class defining" />
-    <MESSAGE value="class attributes" />
-    <MESSAGE value="instance attributes" />
-    <MESSAGE value="constructor" />
     <MESSAGE value="calculate sum using oops" />
     <MESSAGE value="calculate sum using oops(instance variable)" />
     <MESSAGE value="instance varible example" />
-    <option name="LAST_COMMIT_MESSAGE" value="instance varible example" />
+    <MESSAGE value="class attributes" />
+    <MESSAGE value="instance attributes" />
+    <MESSAGE value="local attributes" />
+    <MESSAGE value="global attributes" />
+    <MESSAGE value="constructor" />
+    <MESSAGE value="constructor example" />
+    <MESSAGE value="encapsulation" />
+    <MESSAGE value="single inheritance" />
+    <MESSAGE value="heirarchial inheritance" />
+    <MESSAGE value="multilevel inheritance" />
+    <MESSAGE value="multiple inheritance" />
+    <MESSAGE value="hybrid inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="hybrid inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
