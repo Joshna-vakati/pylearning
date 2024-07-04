@@ -2,6 +2,11 @@ import multipledispatch as md
 
 
 # over loading
+# same method name, but different no of arguments, different type of arguments or both
+#python doesnt support overloading by default
+# using default arguments, multiple dispatch and *args , overloading works
+
+
 class A:
 
     def add(self, a ):
