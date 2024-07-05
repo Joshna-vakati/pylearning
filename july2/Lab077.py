@@ -1,4 +1,4 @@
- # try statement with else
+ # try statement with else.
 def AbyB(a , b):
      try:
          c = ((a+b) / (a-b))
