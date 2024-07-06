@@ -2,6 +2,11 @@
 # An exception is an event, which occurs when a program is executed,
 # that disrupts the normal flow of instructions
 
+# there are three types of error
+1. run time error -  code will compile but it will fail at run time
+2. compile time error  _ code will not compile
+3. logical error  - code will compile , output will be wrong ( 2+2 = 5 but 2+2 = 4)
+
 #built in exceptions in python
 
 # SyntaxError: This exception is raised when the interpreter
