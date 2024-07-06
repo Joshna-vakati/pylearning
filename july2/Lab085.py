@@ -15,3 +15,9 @@ print(file.read())
 
 with open('demo.txt', 'w') as file:
     file.write('this is the write command\n')   #overwrites the existing data
+
+# write()  add single line to the file
+# writelines()  adds multiple lines to the file
+
+with open('demo.txt', 'w') as f:
+    f.writelines(['yes\n', 'writelines\n', 'used\n' , 'for\n', 'writing multiple lines\n'])
