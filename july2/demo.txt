@@ -3,3 +3,4 @@ writelines
 used
 for
 writing multiple lines
+adding new lines to the existing data in file
