@@ -22,7 +22,7 @@ file = open('demo.txt', 'r')
 for line in file:
     print(line)    # reads and prints each line
 
-print('reading file using with\n'')
+print('reading file using with\n')
     # no need to close the file with close() mmethod
 
 with open('demo.txt', 'r') as file:   # 'r' is default mode
