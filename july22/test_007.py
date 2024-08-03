@@ -6,7 +6,7 @@ def loaddata():
 
 @pytest.mark.usefixtures("loaddata")
 class loader:
-    def test_importdata(self, loaddata): #even u use @pytest.mark.usefixtures("loaddata") , u need to pass loaddata as a parameter , if it has return statement
+    def test_importdata(self, loaddata): #even u use @pytest.mark.usefixtures("loaddata") , u need to pass fixture name as a parameter , if it has return statement
         print(loaddata)
 
 
