@@ -1,6 +1,13 @@
+import pytest
 @pytest.fixture
 def loaddata():
-    print("i will execute first")
-    yield  # similar to post request script
-    print('i will execute last ')
+    print("user profile data is being created")
+    return ['Joshna', 'Nellore']
+
+@pytest.mark.usefixtures("loaddata")
+class loader:
+    def test_importdata(self, loaddata): #even u use @pytest.mark.usefixtures("loaddata") , u need to pass loaddata as a parameter , if it has return statement
+        print(loaddata)
+
+
 
