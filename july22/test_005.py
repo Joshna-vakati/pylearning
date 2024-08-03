@@ -4,7 +4,7 @@ import pytest
 @pytest.fixture
 def setup():
     print("i will execute first")
-    yield
+    yield                 # similar to post request script
     print('i will execute last ')
     
 def test_fixtureDemo(setup):
