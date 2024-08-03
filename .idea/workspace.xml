@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="data driven using fixtures">
-      <change afterPath="$PROJECT_DIR$/july22/test_008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july22/test_007.py" beforeDir="false" afterPath="$PROJECT_DIR$/july22/test_007.py" afterDir="false" />
+    <list default="true" id="37417efb-4852-4d8c-ad0d-7ec10fa4ab74" name="Changes" comment="Data driven using fixtures">
+      <change beforePath="$PROJECT_DIR$/july22/test_008.py" beforeDir="false" afterPath="$PROJECT_DIR$/july22/test_008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,30 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717381853802</updated>
-    </task>
-    <task id="LOCAL-00081" summary="global attributes">
-      <option name="closed" value="true" />
-      <created>1719773217060</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1719773217060</updated>
-    </task>
-    <task id="LOCAL-00082" summary="constructor">
-      <option name="closed" value="true" />
-      <created>1719774438849</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1719774438849</updated>
-    </task>
-    <task id="LOCAL-00083" summary="constructor example">
-      <option name="closed" value="true" />
-      <created>1719774553072</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1719774553072</updated>
     </task>
     <task id="LOCAL-00084" summary="encapsulation">
       <option name="closed" value="true" />
@@ -576,7 +550,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722708131623</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="parameterization">
+      <option name="closed" value="true" />
+      <created>1722709034000</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1722709034000</updated>
+    </task>
+    <task id="LOCAL-00131" summary="parameterization(import multiple datasets)">
+      <option name="closed" value="true" />
+      <created>1722709074114</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1722709074114</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Data driven using fixtures">
+      <option name="closed" value="true" />
+      <created>1722709113899</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1722709113899</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -591,9 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="method overloading" />
-    <MESSAGE value="method overriding" />
-    <MESSAGE value="Data abstraction" />
     <MESSAGE value="exception and built in types" />
     <MESSAGE value="try and except statements" />
     <MESSAGE value="try statements with else" />
@@ -616,7 +611,10 @@
     <MESSAGE value="fixtures" />
     <MESSAGE value="fixtures wrap into class" />
     <MESSAGE value="data driven using fixtures" />
-    <option name="LAST_COMMIT_MESSAGE" value="data driven using fixtures" />
+    <MESSAGE value="parameterization" />
+    <MESSAGE value="parameterization(import multiple datasets)" />
+    <MESSAGE value="Data driven using fixtures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data driven using fixtures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
